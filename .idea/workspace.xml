@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d947e257-561f-415d-b737-41b318309ccf" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="bc2bea9f-1079-47f1-9a7a-fb9b0df6111f" />
+    </checked>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1nHTBv6tivFBU5O02ixJgEJR7Gg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;com.mysql.cj.jdbc.Driver" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\radon\Items\backup" />
+      <recent name="C:\wamp\www\radon" />
+      <recent name="C:\wamp\www\radon\Items\backup" />
+      <recent name="C:\wamp\www\radon\include\divisions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\radon\app" />
+      <recent name="C:\xampp\htdocs\radon" />
+      <recent name="C:\xampp\htdocs\radon\assets\js\plugins" />
+      <recent name="C:\xampp\htdocs\radon\Backup" />
+      <recent name="C:\xampp\htdocs\radon\admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.test3.php">
+    <configuration name="DB_Functions.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/radon/include/operations/DB_Functions.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test3.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/radon/test3.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="apexcharts.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/plugins/apexcharts/dist/apexcharts.js" working-dir="$PROJECT_DIR$/assets/js/plugins/apexcharts/dist">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test3.php" />
+        <item itemvalue="Node.js.apexcharts.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d947e257-561f-415d-b737-41b318309ccf" name="Default" comment="" />
+      <created>1588774736262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588774736262</updated>
+      <workItem from="1588774737739" duration="142381000" />
+      <workItem from="1589976733484" duration="11356000" />
+      <workItem from="1591116993013" duration="74330000" />
+      <workItem from="1592895838247" duration="3990000" />
+      <workItem from="1593065989603" duration="596000" />
+      <workItem from="1593090843633" duration="31089000" />
+      <workItem from="1593618417791" duration="6191000" />
+      <workItem from="1593788644551" duration="16475000" />
+      <workItem from="1594121051428" duration="18744000" />
+      <workItem from="1594727978933" duration="16672000" />
+      <workItem from="1595072951975" duration="27741000" />
+      <workItem from="1595440306270" duration="2070000" />
+      <workItem from="1596375451219" duration="19865000" />
+      <workItem from="1597080733322" duration="8394000" />
+      <workItem from="1598970037645" duration="828000" />
+      <workItem from="1599571518030" duration="414000" />
+      <workItem from="1599572003627" duration="3603000" />
+      <workItem from="1599634952275" duration="1231000" />
+      <workItem from="1600006155581" duration="165000" />
+      <workItem from="1600264496838" duration="1777000" />
+      <workItem from="1602236685236" duration="1785000" />
+      <workItem from="1602350835604" duration="357000" />
+      <workItem from="1602351251936" duration="21000" />
+      <workItem from="1602351310028" duration="21000" />
+      <workItem from="1604321399735" duration="2968000" />
+      <workItem from="1604324374227" duration="517000" />
+      <workItem from="1604325329349" duration="7249000" />
+      <workItem from="1604391697617" duration="1782000" />
+      <workItem from="1604393515084" duration="47000" />
+      <workItem from="1604402465967" duration="65000" />
+      <workItem from="1604415536263" duration="3665000" />
+      <workItem from="1604472333867" duration="185000" />
+      <workItem from="1604472545031" duration="1253000" />
+      <workItem from="1604500771653" duration="14062000" />
+      <workItem from="1604755960899" duration="12814000" />
+      <workItem from="1604905378192" duration="608000" />
+      <workItem from="1605078619650" duration="12667000" />
+      <workItem from="1606140968143" duration="6217000" />
+      <workItem from="1606633796272" duration="16381000" />
+      <workItem from="1606835239452" duration="8077000" />
+      <workItem from="1608208049932" duration="263000" />
+      <workItem from="1608274076423" duration="678000" />
+      <workItem from="1608713600800" duration="17265000" />
+      <workItem from="1609436773551" duration="602000" />
+      <workItem from="1609437793822" duration="23149000" />
+      <workItem from="1609666287487" duration="9998000" />
+      <workItem from="1610796829530" duration="1448000" />
+      <workItem from="1610825641851" duration="10657000" />
+      <workItem from="1610978813759" duration="8374000" />
+      <workItem from="1611045889414" duration="248000" />
+      <workItem from="1611046172538" duration="21000" />
+      <workItem from="1611046207770" duration="16000" />
+      <workItem from="1611046321327" duration="7000" />
+      <workItem from="1611046358236" duration="1418000" />
+      <workItem from="1611048078408" duration="13000" />
+      <workItem from="1611048105714" duration="213000" />
+      <workItem from="1611048334708" duration="704000" />
+      <workItem from="1611049056474" duration="6594000" />
+      <workItem from="1611318485110" duration="9860000" />
+      <workItem from="1611562106791" duration="40143000" />
+      <workItem from="1612332440819" duration="4278000" />
+      <workItem from="1613023169876" duration="1790000" />
+      <workItem from="1614600586259" duration="1192000" />
+      <workItem from="1615285485802" duration="19913000" />
+      <workItem from="1616741413730" duration="7237000" />
+      <workItem from="1617452174489" duration="3707000" />
+      <workItem from="1618054870992" duration="38580000" />
+      <workItem from="1618817194074" duration="21361000" />
+      <workItem from="1619507852894" duration="3558000" />
+      <workItem from="1619772007579" duration="16456000" />
+      <workItem from="1619946232934" duration="94000" />
+      <workItem from="1620049026617" duration="14938000" />
+      <workItem from="1620311343448" duration="23000" />
+      <workItem from="1620312577409" duration="177000" />
+      <workItem from="1620399033867" duration="22000" />
+      <workItem from="1620890888356" duration="38000" />
+      <workItem from="1621079404397" duration="264000" />
+      <workItem from="1621260005976" duration="6348000" />
+      <workItem from="1621523579959" duration="1742000" />
+      <workItem from="1621688320564" duration="1314000" />
+      <workItem from="1622215697340" duration="14905000" />
+      <workItem from="1622534216753" duration="12458000" />
+      <workItem from="1624269604296" duration="71000" />
+      <workItem from="1633526374575" duration="13253000" />
+      <workItem from="1633878531367" duration="39387000" />
+      <workItem from="1634820095898" duration="594000" />
+      <workItem from="1636362908195" duration="2833000" />
+      <workItem from="1636712649658" duration="643000" />
+      <workItem from="1636892459690" duration="7757000" />
+      <workItem from="1637986801489" duration="1931000" />
+      <workItem from="1639722399392" duration="601000" />
+      <workItem from="1643981052751" duration="58719000" />
+      <workItem from="1646986950784" duration="8844000" />
+      <workItem from="1647424325178" duration="98690000" />
+      <workItem from="1653028791709" duration="14000" />
+      <workItem from="1654756260087" duration="40404000" />
+      <workItem from="1656319785381" duration="107582000" />
+      <workItem from="1662640590028" duration="4089000" />
+      <workItem from="1662890310350" duration="4859000" />
+      <workItem from="1662918592295" duration="7819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1614" height="275" key="GridCell.Tab.0.bottom" timestamp="1662463263054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1614" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1662463263054" />
+    <state width="1614" height="275" key="GridCell.Tab.0.center" timestamp="1662463263054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1614" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1662463263054" />
+    <state width="1614" height="275" key="GridCell.Tab.0.left" timestamp="1662463263053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1614" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1662463263053" />
+    <state width="1614" height="275" key="GridCell.Tab.0.right" timestamp="1662463263054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1614" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1662463263054" />
+    <state x="777" y="439" key="NewPhpFileDialog" timestamp="1662971738794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1662971738794" />
+    <state x="772" y="402" width="376" height="338" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1" timestamp="1660039838249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="402" width="376" height="338" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1660039838249" />
+    <state x="785" y="286" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1660039826209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="785" y="286" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1660039826209" />
+    <state x="674" y="237" width="571" height="566" key="find.popup" timestamp="1660844344416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="237" width="571" height="566" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1660844344416" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1662892276527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1662892276527" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/include/divisions/stat_cards.php</url>
+          <line>67</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

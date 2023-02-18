@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Radon
+    </title>
+    <!-- Favicon -->
+    <link href="assets/img/brand/favicon.png" rel="icon" type="image/png">
+
+    <!-- Fonts -->
+    <link href="" rel="stylesheet">
+
+    <!-- Icons -->
+    <link href="assets/js/plugins/nucleo/css/nucleo.css" rel="stylesheet">
+    <link href="./assets/js/plugins/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
+
+    <!--  CSS -->
+    <link type="text/css" href="assets/css/argon-dashboard.css" rel="stylesheet">
+
+
+</head>
+<body class="" >
+<div class="row justify-content-center" style="height:inherit;align-items:center;justify-content: center;display: flex">
+    <div class="text-center" style="margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);">
+        <div>
+        <h1 class="fas" style="font-family:productsans;font-size: 60pt"><i class="ni ni-atom"></i>Radon</h1>
+        </div>
+        <div id="minion" class="mt--3 text-right">
+        by minion.io
+        </div>
+        <div class="progress-wrapper">
+            <div class="progress" style="height: 5px">
+                <div class="progress-bar bg-primary" id="progress" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var w;
+
+    function startWorker() {
+        if(typeof(Worker) !== "undefined") {
+            if(typeof(w) == "undefined") {
+                w = new Worker("assets/js/progressWorker.js");
+            }
+            w.onmessage = function(event) {
+                if(event.data <= 100) {
+                    document.getElementById("progress").style.width = event.data+"%";
+                }
+                else{
+                    stopWorker();
+                    window.location.assign("login.php");
+                }
+
+            };
+        } else {
+            document.getElementById("minion").innerHTML = "Sorry, your browser does not support Web Workers...";
+        }
+    }
+
+    function stopWorker() {
+        w.terminate();
+        w = undefined;
+    }
+
+    startWorker();
+</script>
+</body>
+
+</html>

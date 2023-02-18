@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><div class="col pb-3">
+        <div class="card" style="width: 10rem;border-color: #0069d9">
+            <?php if($row["picture"] == ""){?>
+            <i class="fas fa-camera text-center pt-5 pb-5" style="height:10rem;font-size: 50pt"></i>
+            <?php } else{?>
+            <img class="card-img-top" src="items/images/thumbs/<?php echo $row["picture"]; ?>.jpg" style="height:10rem;object-fit: cover">
+            <?php }?>
+            <label class="mt--4 mb--3 bg-translucent-dark text-white font-weight-bold" style="font-size: 11pt;width: 9.9rem"><?php echo $row["status"]; ?></label>
+            <div class="card-body pb-1 pl-2">
+                <h3><?php echo ucwords($row["item"]); ?></h3>
+                <h6><?php echo $row["iid"]; ?></h6>
+                <h6><?php echo $this->getCategory($row["category"]); ?></h6>
+                <h6><?php echo $this->getLocation($row["location"]); ?></h6>
+            </div>
+        </div>
+    </div></title>
+</head>
+<body>
+
+</body>
+</html>

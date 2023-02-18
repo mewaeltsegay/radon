@@ -1,0 +1,119 @@
+
+.container3 {
+    width: inherit;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.container3 .card3 {
+    position: relative;
+    border-radius: 10px;
+}
+
+.container3 .card3 .icon3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #f00;
+    transition: 0.7s;
+    z-index: 1;
+}
+
+.container3 .card3:nth-child(1) .icon3 {
+    background: #4aada9;
+}
+
+.container3 .card3:nth-child(2) .icon3 {
+    background: #6eadd4;
+}
+
+.container3 .card3:nth-child(3) .icon3 {
+    background: #4aada9;
+}
+
+
+.container3 .card3 .icon3 .fa3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    transition: 0.7s;
+    color: #fff;
+}
+
+
+.container3 .card3 .face3 {
+    width: 220px;
+    height: 200px;
+    transition: 0.5s;
+}
+
+.container3 .card3 .face3.face13 {
+    position: relative;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transform: translateY(100px);
+}
+
+.container3 .card3:hover .face3.face13{
+    background: #ff0057;
+    transform: translateY(0px);
+}
+
+.container3 .card3 .face3.face13 .content3 {
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.container3 .card3:hover .face3.face13 .content3 {
+    opacity: 1;
+}
+
+.container3 .card3 .face3.face13 .content3 .i{
+    max-width: 100px;
+}
+
+.container3 .card3 .face3.face23 {
+    position: relative;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.8);
+    transform: translateY(-100px);
+}
+
+.container3 .card3:hover .face3.face23{
+    transform: translateY(0);
+}
+
+.container3 .card3 .face3.face23 .content3 .p3 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #414141;
+}
+
+.container3 .card3 .face3.face23 .content3 .h3 {
+    margin: 0 0 10px 0;
+    padding: 0;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    color: #414141;
+}
+
+.container3 .a3 {
+    text-decoration: none;
+    color: #414141;
+}

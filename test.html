@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Cards Hover2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/damagedTiles.css" />
+    <link href="assets/js/plugins/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
+</head>
+
+<body>
+<script>
+    var xhttp = new XMLHttpRequest();
+    var jsonn = "";
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            jsonn = JSON.parse(this.responseText);
+            document.getElementById("id").innerHTML = jsonn.item;
+        }
+    }
+    xhttp.open("GET", "items/getDataForChart.php", true);
+    xhttp.send();
+</script>
+<div class="container3">
+    <div class="card3">
+        <div class="face3 face13">
+            <div class="content3">
+                <div class="icon3">
+                    <i class="fas fa-user" style="color:white;font-size: 70pt;top: 50%;left: 50%;position: absolute;transform: translate(-50%,-50%);" aria-hidden="true"></i>
+                </div>
+            </div>
+        </div>
+        <div class="face3 face23">
+            <div class="content3">
+                <h3 class="h3">
+                    <a href="https://www.linkedin.com/in/adamdipinto/" target="_blank">_adamdipinto</a>
+                </h3>
+                <p id="id" class="p3">This is where I network and build my professional protfolio.</p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>
